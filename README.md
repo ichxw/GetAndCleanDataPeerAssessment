@@ -1,5 +1,5 @@
-README.md 
-----------
+HEAD README.md 
+---------------
 
 ### The repository includes the following three files: 
 
@@ -45,5 +45,6 @@ README.md
     type in source("run_analysis.R") in the console.
 
 4.  The output files are tidyData.text and reshapedData.text
+
 
 
