@@ -1,4 +1,4 @@
-HEAD README.md 
+README.md 
 ---------------
 
 ### The repository includes the following three files: 
